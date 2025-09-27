@@ -150,5 +150,3 @@ Make sure to **store your OpenRouter API key securely**. This demo uses it direc
 * Use Airflow secrets manager for API keys
 * Deploy to production Airflow on ECS/Kubernetes
 
-
-linked search 1 hour :-- https://www.linkedin.com/jobs/search/?currentJobId=4263585536&distance=25&f_TPR=r7200&geoId=102713980&keywords=data%20engineer&origin=JOB_SEARCH_PAGE_OTHER_ENTRY
